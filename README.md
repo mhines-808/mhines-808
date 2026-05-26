@@ -114,7 +114,7 @@ Planned project categories:
 # 📚 Current Projects
 Sales Dashboard
 <a href="https://github.com/yourusername/project-name">
-<img src="ihttps://github.com/mhines-808/Portfollio/blob/bb91b61f71f6e36e11679f554faae46fa0998fe6/images/sales_dashboard.png" width="700">
+<img src="https://github.com/mhines-808/Portfollio/blob/bb91b61f71f6e36e11679f554faae46fa0998fe6/images/sales_dashboard.png" width="700">
 </a>
 
 ---
