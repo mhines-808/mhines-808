@@ -14,3 +14,101 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📊 Data Analytics Learning Journey
+
+Hi, I'm Mark — currently learning and building projects in the field of Data Analytics.
+
+This repository documents my progress as I develop skills in:
+
+- Excel
+- SQL
+- Tableau
+- Power BI
+- Python
+
+My goal is to build strong analytical, reporting, and visualization skills through hands-on projects and real-world datasets.
+
+---
+
+# 🚀 Current Learning Focus
+
+## 📗 Excel
+- Data cleaning
+- Pivot tables
+- Lookup functions
+- Dashboards
+- Basic automation
+
+## 🗄️ SQL
+- SELECT statements
+- Joins
+- Aggregations
+- Window functions
+- Data cleaning
+- Query optimization
+
+## 📈 Tableau
+- Interactive dashboards
+- KPI reporting
+- Data storytelling
+- Filters & calculated fields
+
+## 📊 Power BI
+- Data modeling
+- DAX basics
+- Visual reporting
+- Dashboard development
+
+## 🐍 Python
+- Python fundamentals
+- Pandas
+- Data analysis
+- Automation
+- Data visualization
+
+---
+
+# 🛠️ Projects
+
+Projects will be added here as I continue learning.
+
+Planned project categories:
+- Sales dashboards
+- Marketing analytics
+- Customer analysis
+- SQL data cleaning projects
+- Tableau visualizations
+- Power BI reports
+- Python data analysis notebooks
+
+---
+
+# 🎯 Goals
+
+- Build a strong analytics portfolio
+- Improve problem-solving skills
+- Work with real-world datasets
+- Prepare for a career in data analytics
+
+---
+
+# 📚 Tools & Technologies
+
+| Tool | Skill Level |
+|------|-------------|
+| Excel | Learning |
+| SQL | Learning |
+| Tableau | Learning |
+| Power BI | Learning |
+| Python | Learning |
+
+---
+
+# 📬 Connect With Me
+
+GitHub: `@ewebtrends`
+
+---
+
+Thanks for visiting my repository!
