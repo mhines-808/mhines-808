@@ -31,7 +31,7 @@ My goal is to build strong analytical, reporting, and visualization skills throu
 
 ---
 
-# 🖥️ Current Portfollio
+# 💼 Current Portfollio
 https://mhines-808.github.io/Portfollio/
 
 ---
